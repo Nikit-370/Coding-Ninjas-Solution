@@ -1,4 +1,0 @@
-printFun()
-{
-    cout<<"Hello World";
-}
